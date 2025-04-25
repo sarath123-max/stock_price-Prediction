@@ -1,21 +1,25 @@
-📈 Stock Price Prediction Using Random Forest
+Sure! Here's a complete and clean `README.md` file tailored to your stock price prediction project using `RandomForestRegressor`:
 
-This project demonstrates how to build a machine learning model to predict stock closing prices based on historical market data using a Random Forest Regressor.
+---
 
-🗂️ Overview
+# 📈 Stock Price Prediction Using Random Forest
 
-We use a supervised machine learning approach to predict the closing stock price using the following features:
+This project demonstrates how to build a machine learning model to predict stock closing prices based on historical market data using a **Random Forest Regressor**.
+
+## 🗂️ Overview
+
+We use a supervised machine learning approach to predict the **closing stock price** using the following features:
 
 - Open price
 - High price
 - Low price
 - Volume of stocks traded
 
-The model is trained and evaluated using scikit-learn's RandomForestRegressor, and performance is measured using Mean Squared Error (MSE).
+The model is trained and evaluated using **scikit-learn's RandomForestRegressor**, and performance is measured using **Mean Squared Error (MSE)**.
 
 ---
 
-📁 Dataset
+## 📁 Dataset
 
 The dataset used is a cleaned CSV file named `cleaned_stock_data.csv`. It contains the following columns:
 
