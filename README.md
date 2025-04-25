@@ -1,6 +1,4 @@
-Sure! Here's a complete and clean `README.md` file tailored to your stock price prediction project using `RandomForestRegressor`:
 
----
 
 # 📈 Stock Price Prediction Using Random Forest
 
@@ -96,7 +94,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📬 Contact
 
 For questions or suggestions, feel free to reach out or open an issue.
-
----
-
-Let me know if you'd like to add visuals (like plots or feature importance) or expand this project further!
